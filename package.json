@@ -1,0 +1,29 @@
+{
+  "name": "retweetbot",
+  "version": "1.0.0",
+  "description": "A little bot to retweet things that matches a certain scheme",
+  "main": "retweetbot.js",
+  "dependencies": {
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grimneko/retweetbot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "retweet",
+    "regex"
+  ],
+  "author": "Philipp Beckers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grimneko/retweetbot/issues"
+  },
+  "homepage": "https://github.com/grimneko/retweetbot#readme"
+}
